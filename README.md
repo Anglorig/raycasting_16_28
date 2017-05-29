@@ -1,8 +1,8 @@
 # raycasting_16_28
 A simple raycasting engine in C++ using SDL2.
 
-Code is split into two parts:
+Code is split into two parts for readability:
   - Walls + floor / ceiling drawing
   - Sprite drawing
 
-The code must be combined into one file.
+For usage, get the assembled main.cpp file.
